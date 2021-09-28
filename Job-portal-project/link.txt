@@ -1,2 +1,0 @@
-https://job-portal-final.herokuapp.com/ 
-https://git.heroku.com/job-portal-final.git
